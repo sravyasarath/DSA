@@ -28,5 +28,6 @@ def sorted_squared_array(array):
             j=j-1
     print(result_array)       
 
+
 sorted_squared_array([-11,2,3,4])
 
